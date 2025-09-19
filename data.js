@@ -2342,6 +2342,24 @@ var APP_DATA = {
           "pitch": 0.3539488201386316,
           "rotation": 0,
           "target": "39-009_marketarea_2"
+        },
+        {
+          "yaw": 2.523010472065663,
+          "pitch": 0.400794198210491,
+          "rotation": 0,
+          "target": "21-006_simulatorarea_6"
+        },
+        {
+          "yaw": -2.067025509955611,
+          "pitch": 0.5066146286335744,
+          "rotation": 0,
+          "target": "24-007_mainroom_3"
+        },
+        {
+          "yaw": 0.7998025800025221,
+          "pitch": 0.4372761091490567,
+          "rotation": 0,
+          "target": "40-010_courtyard_1"
         }
       ],
       "infoHotspots": []
@@ -2380,6 +2398,12 @@ var APP_DATA = {
           "pitch": 0.3682728910061588,
           "rotation": 0,
           "target": "38-009_marketarea_1"
+        },
+        {
+          "yaw": 1.0061579664055706,
+          "pitch": 0.420423886502471,
+          "rotation": 0,
+          "target": "43-010_courtyard_4"
         }
       ],
       "infoHotspots": []
